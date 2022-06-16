@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imranhossainemi
+- 👋 Hi, I’m <a href="https://twitter.com/DevImranHossain" target="_blank" >Imran hossain</a>
 - 👀 I’m interested in web & AI development 
 - 🌱 I’m currently learning web designing   
 - 💞️ I’m looking to collaborate on web design base concept   
