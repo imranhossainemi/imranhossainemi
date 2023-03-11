@@ -1,12 +1,10 @@
 ### Hi there 👋, my name is Imran Hossain
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am Full stack Developer
+ I'm a full-stack software engineer with expertise in Javascript, PHP, and Laravel. I specialise in developing software solutions for small businesses.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Skills: VUE JS / REACT / JS / HTML / CSS / PHP
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently looking for job
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imranhossainemi)  
