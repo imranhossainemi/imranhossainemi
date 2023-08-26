@@ -8,7 +8,7 @@ In addition, my software engineering degree has provided me with a solid foundat
 My previous experience as an online freelancer for 2 years has honed my time management and deadline management skills, which I apply every day in my work as a software engineer.
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PHP
+Skills: RUBY / RUBY ON RAILS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently looking for job
 
