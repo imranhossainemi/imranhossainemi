@@ -16,10 +16,3 @@ Skills: RUBY / RUBY ON RAILS / REACT / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='blue'>](https://github.com/imranhossainemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imran-hossain-a8686b20a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/WebDevImranHossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@DevImranHossain)  
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossainemi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imranhossainemi&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imranhossainemi)  
-
